@@ -1,8 +1,9 @@
 ### Hi there, I'm ./B7 - Founder Purwokerto Malware Cyber 👋😈☠️
-<p align="center"><img src="https://media.giphy.com/media/7tZixQ6tjEEaA/giphy.gif" alt="animated" /></p>
 
+<p align="center"><img src="https://media.giphy.com/media/3oEjHQxSq1ZSBXZgeQ/giphy.gif" alt="animated" /></p>
 
 ## Developer, Ransomware, Programer & Cyber Expert!
+<p align="center"><img src="https://media.giphy.com/media/7tZixQ6tjEEaA/giphy.gif" alt="animated" /></p>
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡: More Open Source Projects.
