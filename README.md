@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="palahsu | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="palahsu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="palahsu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="palahsu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Unlimited-Crack-You | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Unlimited-Crack-You | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Unlimited-Crack-You | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Unlimited-Crack-You | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Unlimited-Crack-You | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
@@ -22,8 +22,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Unlimited-Crack-You&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Unlimited-Crack-You&langs_count=8&theme=blue-green">
-<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Unlimited-Crack-You&repo=github-readme-stats"> 
-<img src = "https://github.com/Unlimited-Crack-You/github-readme-stats">
 
 ## :sparkling_heart: Support the project
 
