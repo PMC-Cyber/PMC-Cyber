@@ -21,7 +21,7 @@
 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Unlimited-Crack-You&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=palahsu&langs_count=8&theme=blue-green">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Unlimited-Crack-You&langs_count=8&theme=blue-green">
 
 ## :sparkling_heart: Support the project
 
@@ -30,7 +30,7 @@ You can use any tools for free and for any development or making projects just c
 
 ## For Contact
 
-[<img align="left" alt="palahsu | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Unlimited-Crack-You | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 Thanks! :heart:
