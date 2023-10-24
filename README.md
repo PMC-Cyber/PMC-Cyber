@@ -23,6 +23,9 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=Unlimited-Crack-You&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Unlimited-Crack-You&langs_count=8&theme=blue-green">
 
+## 🏆
+![](https://github-profile-trophy.vercel.app/?username=Unlimited-Crack-You&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 ## :sparkling_heart: Support the project
 
 I try to reply to everyone needing help using these projects or any other projects. Obviously. 
