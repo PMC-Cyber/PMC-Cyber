@@ -22,6 +22,7 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Unlimited-Crack-You&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Unlimited-Crack-You&langs_count=8&theme=blue-green">
+<img src = "https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d">
 
 ## :sparkling_heart: Support the project
 
