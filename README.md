@@ -22,7 +22,9 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Unlimited-Crack-You&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Unlimited-Crack-You&langs_count=8&theme=blue-green">
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]
+<img src = "https://github-readme-stats.vercel.app/api/pin/?username=Unlimited-Crack-You&repo=github-readme-stats"> 
+<img src = "https://github.com/Unlimited-Crack-You/github-readme-stats">
 
 ## :sparkling_heart: Support the project
 
