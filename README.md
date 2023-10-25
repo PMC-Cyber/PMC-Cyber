@@ -56,7 +56,7 @@ You can use any tools for free and for any development or making projects just c
 
 </p>
 <p align="left">
-  <a href="aprineads@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-my contact -red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://gmail.com/aprineads@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-my contact -red?style=for-the-badge&logo=gmail"></a>
 
 
 Thanks! :heart:
