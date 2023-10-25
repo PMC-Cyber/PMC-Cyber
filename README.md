@@ -1,5 +1,13 @@
 ### Hi there, I'm ./B7 - Founder Purwokerto Malware Cyber 👋😈☠️
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-./B7 Black Seven-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Encode-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-PMC Eelam-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
+</p>
 
+<p align="center">A beginners friendly, Automated Basic Tool.</p>
 <p align="center"><img src="https://media.giphy.com/media/3oEjHQxSq1ZSBXZgeQ/giphy.gif" alt="animated" /></p>
 
 ## Developer, Ransomware, Programer & Cyber Expert!
